@@ -1,2 +1,2 @@
 # NetXD_demo
-This is for new comers to git
+This is for the new comers to git
